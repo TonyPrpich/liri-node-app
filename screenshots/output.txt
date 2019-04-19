@@ -1,0 +1,20 @@
+//This is my song generator output
+
+Tonys-MacBook-Pro:liri-node-app tonyprpich13$ npm i
+npm WARN liri-node-app@1.0.0 No description
+
+audited 115 packages in 1.218s
+found 0 vulnerabilities
+
+Tonys-MacBook-Pro:liri-node-app tonyprpich13$ node liri.js  spotify-this-song Tearing me up
+this is loaded
+Artist(s) Name: Bob Moses
+Track Name: Tearing Me Up
+Preview URL: https://p.scdn.co/mp3-preview/93067380705184ca32a4f0e101410e27b7bb50cf?cid=23f00583549f462b9179ce9c9c92793f
+Album: Days Gone By
+
+Content Added!
+-----------------------------------
+
+Tonys-MacBook-Pro:liri-node-app tonyprpich13$ 
+
